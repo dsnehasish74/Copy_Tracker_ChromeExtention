@@ -3,7 +3,7 @@
 
 ## Description :
   
-  This Chrome will help you to keep track of your copy. So you Dont need to change the tab again and again.You Can also set the limit of the copied elements.
+  This Chrome Extention will help you to keep track of your copy. So you Dont need to change the tab again and again.You Can also set the limit of the copied elements.
   
   ## Demo:
   
