@@ -13,7 +13,7 @@
   ## Video Example:
   [![Copy Tracker](https://img.youtube.com/vi/7CYxoZMpFys/0.jpg)](https://youtu.be/7CYxoZMpFys)
   
-  click here to see the video
+  click on the image to see the video
   
   ## Setup
   
