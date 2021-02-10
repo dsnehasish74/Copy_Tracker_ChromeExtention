@@ -10,6 +10,11 @@
   ![Popup](https://github.com/dsnehasish74/Copy_Tracker_ChromeExtention/blob/main/Screenshot%20(527).png)
   ![options](https://github.com/dsnehasish74/Copy_Tracker_ChromeExtention/blob/main/Screenshot%20(528).png)
   
+  ## Video Example:
+  [![Copy Tracker](https://img.youtube.com/vi/7CYxoZMpFys/0.jpg)](https://youtu.be/7CYxoZMpFys)
+  
+  click here to see the video
+  
   ## Setup
   
   ```
