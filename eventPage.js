@@ -14,7 +14,7 @@ chrome.contextMenus.onClicked.addListener((data)=>{
                 copys = (result.copyTracker);
             }
             //To keep maintain the limit
-            let lim = result.limit!=undefined?result.limit:3;
+            let lim = result.limit!=undefined?result.limit:10;
             let no = copys.length;
             while(no>=lim){
                 copys.shift();
